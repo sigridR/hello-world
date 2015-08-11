@@ -3,6 +3,6 @@ test repository
 
 Hi,
 
-this is a first commit, try to see the difference.
+this is a first and now a second commit, try to see the difference.
 
 PS: Liebe :)
